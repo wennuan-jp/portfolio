@@ -1,0 +1,60 @@
+{
+    "header": {
+        "title": "Developer Portfolio",
+        "home": "Home",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "hero": {
+        "available": "Available for new projects",
+        "title": "Full Stack Developer",
+        "subtitle": "Building modern web applications with Go, React, and Flutter for global audiences",
+        "button": "View Projects",
+        "button2": "Contact Me"
+    },
+    "skills": {
+        "title": "Technical Expertise",
+        "subtitle": "Specializing in building robust and scalable digital products with a focus on modern architectures.",
+        "go": "Go Programming",
+        "react": "React Development",
+        "flutter": "Flutter Development",
+        "description": {
+            "0": "Building scalable backend systems with Go, concentrating on performance and concurrency.",
+            "1": "Creating responsive and interactive user interfaces using modern React best practices.",
+            "2": "Developing high-performance, cross-platform mobile applications with a single codebase."
+        }
+    },
+    "projects": {
+        "title": "Featured Projects",
+        "subtitle": "A collection of my recent works, ranging from backend engines to interactive web experiences.",
+        "readMore": "Read More",
+        "project1": {
+            "title": "E-commerce Engine",
+            "description": "A high-performance microservices-based e-commerce backend built with Go and gRPC."
+        },
+        "project2": {
+            "title": "Portfolio Web",
+            "description": "This portfolio itself, built with Next.js and Tailwind CSS with internationalization support."
+        }
+    },
+    "footer": {
+        "about": "About Me",
+        "description": "I am a passionate developer dedicated to creating high-quality software solutions.",
+        "contact": "Contact Info",
+        "social": "Connect",
+        "copyright": "All rights reserved."
+    },
+    "about": {
+        "title": "About Me",
+        "description": "I'm a dedicated Full Stack Developer with over 5 years of experience in building high-performance applications. I love solving complex problems and creating seamless user experiences across web and mobile platforms.",
+        "future": "Future Planning",
+        "future_desc": "In the next 2 years, I aim to deepen my expertise in Cloud Native architectures and contribute to larger open-source projects in the Go and React ecosystems. I'm also exploring AI integration in modern dev workflows.",
+        "interests": "Interests",
+        "interests_list": {
+            "0": "UI/UX Design",
+            "1": "Distributed Systems",
+            "2": "Photography",
+            "3": "Hiking"
+        }
+    }
+}
